@@ -1,7 +1,7 @@
 {
   "name": "express-route-lister",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple npm package that lists all the routes available in an Express application.",
   "main": "index.js",
   "scripts": {
