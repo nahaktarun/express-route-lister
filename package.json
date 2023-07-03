@@ -13,6 +13,9 @@
     "express",
     "route-lister"
   ],
+  "bin": {
+    "express-route-lister": "./index.js"
+  },
   "author": "Tarun Nahak",
   "license": "ISC",
   "dependencies": {
